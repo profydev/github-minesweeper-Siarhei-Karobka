@@ -12,6 +12,8 @@
     "clear B6",
     "clear H2",
     "clear H6",
-    "clear f1"
+    "clear f1",
+    "flag c7",
+    "clear f8"
   ]
 }
